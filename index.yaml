@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  zookeeperkafka:
+  - apiVersion: v1
+    created: "2020-10-09T21:01:01.939611422-06:00"
+    description: Helm chart
+    digest: 304a59915530ddfe2d1d7e32e11ea7be2c317a392f883d3c2a30cab4af87880a
+    name: zookeeperkafka
+    urls:
+    - https://github.com/kikitoto0O/zookafka/releases/download/zookeeperkafka-1.0.0/zookeeperkafka-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-10-09T21:01:00.940175594-06:00"
